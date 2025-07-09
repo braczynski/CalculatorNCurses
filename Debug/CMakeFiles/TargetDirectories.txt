@@ -1,0 +1,3 @@
+/home/bartlomiej/CalculatorNCurses/build/CMakeFiles/CalculatorNCurses.dir
+/home/bartlomiej/CalculatorNCurses/build/CMakeFiles/edit_cache.dir
+/home/bartlomiej/CalculatorNCurses/build/CMakeFiles/rebuild_cache.dir

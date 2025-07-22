@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/CalculatorNCurses.dir/src/DecodeMessage.cpp.o CMakeFiles/CalculatorNCurses.dir/src/Display.cpp.o CMakeFiles/CalculatorNCurses.dir/src/Menu.cpp.o CMakeFiles/CalculatorNCurses.dir/src/RunOperator.cpp.o CMakeFiles/CalculatorNCurses.dir/src/main.cpp.o -o bin/CalculatorNCurses  -lcurses /usr/lib/x86_64-linux-gnu/libform.so 
